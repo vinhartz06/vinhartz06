@@ -43,3 +43,8 @@
 </a>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhartz06&theme=tokyonight&layout=donut" />
+
+<h2 align="left">💡 My Projects:</h2>
+<a href="https://github.com/vinhartz06/s2c">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=s2c" />
+</a>
