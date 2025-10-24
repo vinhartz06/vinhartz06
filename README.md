@@ -6,13 +6,13 @@
   I enjoy solving problems, learning new tools, and experimenting with modern technologies.
 </p>
 
-<h2 align="left">🔗 Connect with Me:</h3>
+<h2 align="left">🔗 Connect with Me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/jonathan-vincent-hartono" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-vincent-hartono" height="30" width="40" /></a>
 <a href="https://instagram.com/j.vincent2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="j.vincent2006" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">🧰 My Toolbox:</h3>
+<h2 align="left">🧰 My Toolbox:</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
@@ -34,7 +34,7 @@
   <img width="12" />
 </div>
 
-<h2 align="left">📊 My Stats:</h3>
+<h2 align="left">📊 My Stats:</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinhartz06&theme=tokyonight&show_icons=true" />
 </a>
@@ -43,6 +43,3 @@
 </a>
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhartz06&theme=tokyonight&layout=donut" />
-
-<h2 align="left">💡 My Projects:</h3>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&repo=s2c&theme=tokyonight" />
