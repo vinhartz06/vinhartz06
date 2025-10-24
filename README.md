@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vincent 👋</h1>
-<p align="left">
+<p align="center">
   I'm an Informatics Engineering student at Soegijapranata Catholic University.
   I love backend development, especially building APIs and working with databases.
   I’m currently learning Node.js (Express) and Laravel to sharpen my skills.
@@ -35,14 +35,11 @@
 </div>
 
 <h2 align="left">📊 My Stats:</h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=vinhartz06&theme=tokyonight&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=vinhartz06&theme=tokyonight" alt="github Streak" />
-</a>
-<br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhartz06&theme=tokyonight&layout=donut" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=vinhartz06&theme=tokyonight" alt="github Streak" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=vinhartz06&theme=tokyonight&show_icons=true&hide_title=true" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhartz06&theme=tokyonight&layout=donut&hide_title=true" />
 
 <h2 align="left">💡 My Projects:</h2>
 <a href="https://github.com/vinhartz06/s2c">
