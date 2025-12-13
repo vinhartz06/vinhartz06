@@ -48,6 +48,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhartz06&theme=tokyonight&layout=donut&hide_title=true" />
 
 <h2 align="left">💡 My Projects:</h2>
-<a href="https://github.com/vinhartz06/s2c">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=s2c" />
+<a href="https://github.com/vinhartz06/niHeal">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=niHeal" />
+</a>
+<a href="https://github.com/vinhartz06/mySSL">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=mySSL" />
+</a>
+<a href="https://github.com/vinhartz06/DigiQ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=DigiQ" />
+</a>
+<a href="https://github.com/vinhartz06/CSC2025-UAS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vinhartz06&theme=tokyonight&repo=CSC2025-UAS" />
 </a>
