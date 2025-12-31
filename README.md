@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Vincent 👋</h1>
 <p align="center">
-  I'm an Informatics Engineering student at Soegijapranata Catholic University.
-  I love backend development, especially building APIs and working with databases.
-  I’m currently learning Node.js (Express) and Laravel to sharpen my skills.
+  I’m an Informatics Engineering student at Soegijapranata Catholic University.
+  I love backend development and enjoy working behind the scenes to build reliable systems.
   I enjoy solving problems, learning new tools, and experimenting with modern technologies.
 </p>
 
