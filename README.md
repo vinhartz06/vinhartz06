@@ -7,7 +7,7 @@
 </p>
 
 ### My Toolbox
-[![My Toolbox](https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,php,java,python,mysql,postgresql,laravel,react,nodejs,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![My Toolbox](https://skillicons.dev/icons?i=vscode,git,github,html,css,javascript,typescript,php,java,python,sqlite,mysql,postgresql,mongodb,laravel,react,nodejs,tailwind)](https://skillicons.dev)
 
 ### Connect with Me
 <p>
