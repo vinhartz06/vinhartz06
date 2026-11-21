@@ -23,13 +23,13 @@ I'm an Informatics Engineering student at Soegijapranata Catholic University wit
 
 ### 💡 What I've Built
 
-#### SCU-COMPASS &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-059669?style=flat-square)](https://scucompass.nue.dom.my.id/) [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/vinhartz06/compass)
+#### SCU-COMPASS &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-059669?style=flat-square)](https://scucompass.nue.dom.my.id/)
 <sub>Laravel &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; JavaScript</sub>
 
 - Centralizes competition listings and delivers personalized recommendations using Simple Additive Weighting
 - Integrates a Rule-Based Engine for risk framing to highlight potential challenges and help students bridge the intention-action gap
 
-#### Trilogi Nusantara &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-059669?style=flat-square)](https://triloginusantara.sgp.dom.my.id/) [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/vinhartz06/FICPACT2026)
+#### Trilogi Nusantara &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-059669?style=flat-square)](https://triloginusantara.sgp.dom.my.id/) [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/vinhartz06/trilogi-nusantara)
 <sub>Laravel &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; Tailwind CSS &nbsp;·&nbsp; JavaScript</sub>
 
 - Interactive cultural learning platform bringing Indonesian heritage to life through gamified memory-matching card mechanics and regional folklore
