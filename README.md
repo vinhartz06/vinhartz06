@@ -41,10 +41,12 @@ I'm an Informatics Engineering student at Soegijapranata Catholic University wit
 - Centralized maritime knowledge platform aggregating curated news and research publications across fisheries, shipping, and coastal issues
 - Built role-based access control (RBAC) for topic and super administrators alongside a structured publication repository
 
+<!-- 
 #### Learn with Vincent &nbsp; [![Live Demo](https://img.shields.io/badge/Live_Demo-059669?style=flat-square)](https://learnwithvincent.vercel.app) [![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/vinhartz06/learn-with-vincent)
 <sub>React &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; Tailwind CSS</sub>
 
 - Interactive science and mathematics learning platform combining real-time visual simulations, sandboxes, and step-by-step guides
 - Features structured formula references, SI unit cards, and concise topic takeaways in a fast, distraction-free interface
+-->
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/vinhartz06/vinhartz06/snake-output/snake.svg" alt="Snake animation" />
